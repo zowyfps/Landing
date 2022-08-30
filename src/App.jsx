@@ -9,7 +9,7 @@ function App() {
     <div className="App">
 
       <NavBar />
-      <ItemListContainer texto='UC'/>
+      <ItemListContainer texto='UNDERCLUB'/>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
 
