@@ -11,19 +11,7 @@ function App() {
       <NavBar />
       <ItemListContainer texto='UNDERCLUB'/>
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
 
-        <p>
-          Proyecto Under Club <code>src/App.js</code> Gonzalez Zoe
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
