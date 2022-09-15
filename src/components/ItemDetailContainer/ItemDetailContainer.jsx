@@ -13,7 +13,7 @@ const films = [
 ];
 
 export const ItemDetailContainer = () => {
-  const [data, SetData] = useState({});
+  const [data, SetData] = useState({}); 
   const { detalleId } = useParams();
 
   useEffect (() => {
